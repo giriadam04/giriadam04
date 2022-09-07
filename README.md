@@ -1,4 +1,4 @@
-### Hi, Salam Kenal Semua Aku Giri 👋
+# Hi, Salam Kenal Semua Aku Giri 👋
 
 Aku Seorang IT Programmer Pemula yang tergila-gila akan dunia pemrograman terutama pemrograman web, berkreasi dengan
 **HTML Syntax Dan CSS Syntax** hingga akhirnya merambah ke dunia Framework Php yaitu Laravel dan sekarang sedang mencoba framework baru Javascript **(VUE, REACT)**.
